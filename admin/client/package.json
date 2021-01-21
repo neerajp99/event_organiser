@@ -20,7 +20,7 @@
     "date-fns": "^2.8.1",
     "font-awesome": "^4.7.0",
     "history": "^4.10.1",
-    "immer": "^6.0.9",
+    "immer": "^8.0.1",
     "jwt-decode": "^2.2.0",
     "mdbreact": "^4.27.0",
     "moment": "^2.27.0",
